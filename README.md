@@ -13,6 +13,7 @@ Syncs music to the intensity of your game.
 The major tools we have used to create this application. Would be good to read before you start contributing.
 
 - [Electron React Boilerplate](https://electron-react-boilerplate.js.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ### Install
 
